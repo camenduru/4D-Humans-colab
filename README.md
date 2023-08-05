@@ -11,16 +11,16 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/4D-Humans-colab/blob/main/4d_humans_video_colab.ipynb) | 4d_humans_video_colab.ipynb
 
 ## Main Repo
-https://github.com/shubham-goel/4D-Humans
-https://github.com/brjathu/PHALP
+https://github.com/shubham-goel/4D-Humans <br />
+https://github.com/brjathu/PHALP <br />
 
 ## Page
-https://shubham-goel.github.io/4dhumans/
-https://brjathu.github.io/PHALP/
+https://shubham-goel.github.io/4dhumans/ <br />
+https://brjathu.github.io/PHALP/ <br />
 
 ## Paper
-https://arxiv.org/abs/2305.20091
-https://arxiv.org/abs/2112.04477
+https://arxiv.org/abs/2305.20091 <br />
+https://arxiv.org/abs/2112.04477 <br />
 
 ## Output
 ![download](https://github.com/camenduru/4D-Humans-colab/assets/54370274/e1c37b0a-8fbe-4a68-b05e-9f7933435cdc)
