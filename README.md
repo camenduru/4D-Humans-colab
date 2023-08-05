@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/4D-Humans-colab/blob/main/4d_humans_colab.ipynb) | 4d_humans_colab.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/4D-Humans-colab/blob/main/4d_humans_gradio_colab.ipynb) | 4d_humans_gradio_colab.ipynb
 
 ## Main Repo
 https://github.com/shubham-goel/4D-Humans
