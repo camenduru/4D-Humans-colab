@@ -32,4 +32,4 @@ https://arxiv.org/abs/2112.04477 (track) <br />
 Artist: https://www.tiktok.com/@karinaavx__/video/7149227592720141610 <br />
 https://www.youtube.com/@karinabalcerzak
 
-https://github.com/camenduru/4D-Humans-colab/assets/54370274/743c868c-92ee-42f4-893b-2e23e8edc469
+https://github.com/camenduru/4D-Humans-colab/assets/54370274/37f8189e-67c5-4192-aefd-3f1a26d2f4c0
