@@ -12,15 +12,15 @@
 
 ## Main Repo
 https://github.com/shubham-goel/4D-Humans <br />
-https://github.com/brjathu/PHALP (video) <br />
+https://github.com/brjathu/PHALP (track) <br />
 
 ## Page
 https://shubham-goel.github.io/4dhumans/ <br />
-https://brjathu.github.io/PHALP/ (video) <br />
+https://brjathu.github.io/PHALP/ (track) <br />
 
 ## Paper
 https://arxiv.org/abs/2305.20091 <br />
-https://arxiv.org/abs/2112.04477 (video) <br />
+https://arxiv.org/abs/2112.04477 (track) <br />
 
 ## Output
 4d_humans_colab
