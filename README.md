@@ -21,6 +21,7 @@ https://arxiv.org/abs/2305.20091 <br />
 
 ## Output
 4d_humans_colab
+
 ![download](https://github.com/camenduru/4D-Humans-colab/assets/54370274/e1c37b0a-8fbe-4a68-b05e-9f7933435cdc)
 ![run](https://github.com/camenduru/4D-Humans-colab/assets/54370274/b5721483-0986-4cf0-bc7c-fc3d6b603b95)
 
