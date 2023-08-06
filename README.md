@@ -29,7 +29,6 @@ https://arxiv.org/abs/2112.04477 (track) <br />
 ![run](https://github.com/camenduru/4D-Humans-colab/assets/54370274/b5721483-0986-4cf0-bc7c-fc3d6b603b95)
 
 4d_humans_video_colab <br />
-Artist: https://www.tiktok.com/@karinaavx__/video/7149227592720141610 <br />
-https://www.youtube.com/@karinabalcerzak
+Artist: https://www.youtube.com/@karinabalcerzak
 
 https://github.com/camenduru/4D-Humans-colab/assets/54370274/37f8189e-67c5-4192-aefd-3f1a26d2f4c0
